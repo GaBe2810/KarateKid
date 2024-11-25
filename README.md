@@ -1,10 +1,9 @@
 # KarateKid
 
-Filme
 
-Resumo de "The Karate Kid"
+# Resumo do Filme
 
-# Introdução
+Introdução
 A história se passa em setembro de 1984, quando Daniel LaRusso, de 17 anos, se muda com sua mãe viúva, Lucille, de Newark, Nova Jersey, para a Califórnia. O objetivo desta mudança é iniciar um novo capítulo na vida de Daniel antes do seu último ano na escola. Embora não o faça, ele promete fazer o possível para se adaptar à nova vida.
 
 Pontos Chave
