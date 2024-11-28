@@ -1,7 +1,7 @@
-# KarateKid
+### KarateKid
 
 
-# Resumo do Filme
+### Resumo do Filme
 
 Introdução
 A história se passa em setembro de 1984, quando Daniel LaRusso, de 17 anos, se muda com sua mãe viúva, Lucille, de Newark, Nova Jersey, para a Califórnia. O objetivo desta mudança é iniciar um novo capítulo na vida de Daniel antes do seu último ano na escola. Embora não o faça, ele promete fazer o possível para se adaptar à nova vida.
@@ -27,17 +27,80 @@ Conclusão
 A Jornada de Daniel LaRusso é uma história de conquista, amizade e busca por justiça. Com a ajuda do Sr. Miyagi, com suas habilidades recém-desenvolvidas, não apenas afasta os agressores, mas também aprende a enfrentar os desafios da vida com coragem e respeito. Vencer a competição marca sua transformação de um jovem seguro em um jovem que ousa enfrentar o novo mundo..
 
 
-# Cena
+### Cena
 
 As cenas selecionadas foram as 3 lições de defesa que o Sr. Miyagi passou para Daniel; Lavar todos os carros em movimentos circulares com as mãos, lixar o assoalho com movimentos circulares e pintar o muro e paredes com movimentos de cima pra baixo e da esquerda pra direita.
 
 
-# Personagens
+### Personagens
 
 Personagens participantes da cena são apenas Daniel e Sr. Miyagi
 
 
-# Projeto
+### Projeto
 
 No projeto, adaptamos as 3 cenas para um jogo onde objetos clicáveis aparecerão na tela de forma aleatória e o jogador precisa clicar para pontuar e passar de fase, os objetos, que são diferentes em cada fase, são respectivamente, crostinhas de sujeira, farpas e gotas de tinta.
 Ganha o jogo se o jogador consegue clicar em todos os objetos necessários antes do tempo da fase acabar.
+
+### Codigos
+
+## Menu Inicial
+
+<table>
+<thead>
+<th>
+
+   Codigo Menu Incial
+
+</th>
+</thead>
+</table>
+
+
+## Menu Vencedor
+
+<table>
+<thead>
+<th>
+
+   Codigo Menu Vencedor
+
+</th>
+</thead>
+</table>
+
+## Menu Menu Game Over
+
+<table>
+<thead>
+<th>
+
+   Codigo Menu Game Over
+
+</th>
+</thead>
+</table>
+
+## Movimentação
+
+<table>
+<thead>
+<th>
+
+   Codigo Movimentação
+
+</th>
+</thead>
+</table>
+
+## Fase 1
+
+<table>
+<thead>
+<th>
+
+   Codigo Click e Sujeira
+
+</th>
+</thead>
+</table>
