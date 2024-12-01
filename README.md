@@ -16,7 +16,7 @@ Daniel no começo do filme usa cores mais fortes para representar um pouco de su
 Johnny sempre aparece com paletas de cores muito escuras e frias (ou com a iluminação escura), isso para passar seu ar de seriedade, ódio e falta de amor com os outros, até mesno no começo ele aparecia mais nas noites. Na cenas em que Miyagi salva o Daniel, Johnny está praticamente todo de preto e a noite, tudo isso para mostrar seu ódio e a vontade de matar Daniel.
 
 - Ali Mills: Ali aparece pela primeira vez na praia com suas amigas, e lá já é perceptível "um amor à primeira vista" entre ela e Daniel, o que acaba se tornando um dos pontos principais do filme, mas não pelo romance, na verdade é pela importância de Ali na mentalidade de Daniel, sendo o ponto de equilíbrio e paz muitas vezes, além das cenas com ela serem mais felizes. 
-Ali aparece no filme com cores mas pastéis, claras e neutras, refletindo sua personalidade, que é calma e gentil, além de mostrar sua aparência angelical, na visão de Daniel. As cenas em que ela aparece, normalmente tendem a ser mais coloridas, pois demonstra parte mais feliz de Daniel e as cores neutras ou fortes demonstram a calma e amor entre os dois
+Ali aparece no filme com cores mas pastéis, claras e neutras, refletindo sua personalidade, que é calma e gentil, além de mostrar sua aparência angelical, na visão de Daniel. As cenas em que ela aparece, normalmente tendem a ser mais coloridas, pois demonstra parte mais feliz de Daniel e as cores neutras ou fortes demonstram a calma e amor entre os dois.
 
 - Sr. Miyagi: Aparecendo como um mentor/sensei perfeito, Miyagi no começo aparece como alguém normal no filme, porém após salvar Daniel, se mostra ser alguém bem diferente. Se tornando o personagem mais emblemático e importante do filme. Como mentor, ele passa alguns treinamentos diferentes do convencional para Daniel, como limpar os carros, pintar cercas e casa, mas no fim de tudo era amostragem dos movimentos do Karatê, além de depois ensinar equilíbrio com ondas e pesca, faz isso para mostrar que Karatê não é apenas uma luta, e dá ensinamentos de vida para o jovem lutador. 
 Miyagi normalmente aparece usando roupas brancas ou bem esbranquiçadas, para passar a sensação de paz e tranquilidade, mas também com seriedade. Com o tempo, as cenas dele e Daniel vão ficando mais pintadas e ao mesmo tempo com tons mais claros e escuros, para mostrar que a conexão entre eles está ficando mais próxima, como de pai e filho. Por exemplo, Miyagi no torneio aparece com um paletó preto, mostrando seriedade, e uma camisa branca por baixo, mostrando tranquilidade, que somando, demonstram a confiança dele em seu aprendiz.
@@ -31,7 +31,7 @@ As cenas selecionadas foram as 3 lições ue o Sr. Miyagi passou para Daniel; La
 
 ## Descrição e Proposta
 
-Na cena do filme, Miyagi pede para Daniel lavar o carro, o assoalho e pintar os muros, tudo isso com finalidade de ajudar nas táticas de defesa do karatê. Então para o jogo decidimos adaptá-las para jogos clickers, onde o jogador precisa clicar nas sujeiras para limpar as coisas e passar de fase
+Na cena do filme, Miyagi pede para Daniel lavar o carro, o assoalho e pintar os muros, tudo isso com finalidade de ajudar nas táticas de defesa do karatê. Então para o jogo decidimos adaptá-las para jogos clickers, onde o jogador precisa clicar nas sujeiras para limpar as coisas e passar de fase.
 
 ## Personagens Envolvidos 
 
@@ -39,17 +39,38 @@ Os personagens envolvidos na cena são Daniel Larusso e Sr. Miyagi, onde o Danie
 
 ## Jogabilidade
 
-Para poder ganhar o jogo, o jogador terá que passar de 3 fases, onde terá que limpar um carro, cercas e a casa, tudo apenas clicando nas sujeiras aleatórias que apareceram pela tela, caso não consiga limpar todas as 20 sujeiras no tempo de 30 segundos, o jogador perderá e terá que recomeçar a fase
-
-## Esboços
+Para poder ganhar o jogo, o jogador terá que passar de 3 fases, onde terá que limpar um carro, cercas e a casa, tudo apenas clicando nas sujeiras aleatórias que apareceram pela tela, caso não consiga limpar todas as 20 sujeiras no tempo de 30 segundos, o jogador perderá e terá que recomeçar a fase.
 
 # Explicação do Jogo
 
-Na primeira cena, Daniel se encontra com Miyagi para começar seus treinamentos. Na 1° fase, que se passa de dia, é preciso limpar um carro e ele precisa limpar todas possiveis a tempo para poder concluir o primeiro treinamento;
+O jogo contém 3 fases, onde para iniciar (pós menu inicial), Daniel se encontrará com Miyagi na frente da casa do mestre.
 
-# Codigos
+Na primeira cena, Daniel se encontra com Miyagi para começar seus treinamentos. Na 1° fase, que se passa de dia, é preciso limpar um carro e ele precisa limpar todas possiveis a tempo para poder concluir o primeiro treinamento.
 
-## Menus
+Na 2° fase, que se passa de tarde, Daniel vai limpar as cercas da casa de Miyagi para ir para o próximo treinamento.
+
+Na 3° fase, que se passa a noite, ele precisa limpar a casa de Miyagi, para enfim conseguir finalizar seus treinamentos.
+
+Ao completar tudo, o jogador poderá recomeçar seus treinamentos, isso para melhorar suas habilidades, que nem Daniel no filme, onde após diversas vezes fazendo as mesmas atividades, ele fica experiente nos movimentos e isso o ajudará nos treinamnetos mais fortes e nas lutas.
+
+# Diagramas de classe
+
+<table>
+<thead>
+<th>
+
+ ![Diagrama](https://github.com/user-attachments/assets/72ce6fa4-bf78-43dc-b0b2-5eb4a4f74b90)
+
+
+</th>
+</thead>
+</table>
+
+# Descrição técnica do desenvolvimento
+
+## Codigos
+
+### Menus
 
 <table>
 <thead>
@@ -63,7 +84,7 @@ Na primeira cena, Daniel se encontra com Miyagi para começar seus treinamentos.
 </table>
 
 
-## Movimentação
+### Movimentação
 
 <table>
 <thead>
@@ -76,7 +97,7 @@ Na primeira cena, Daniel se encontra com Miyagi para começar seus treinamentos.
 </thead>
 </table>
 
-## Botão de Começar nas Fases
+### Botão de Começar nas Fases
 
 <table>
 <thead>
@@ -89,7 +110,7 @@ Na primeira cena, Daniel se encontra com Miyagi para começar seus treinamentos.
 </thead>
 </table>
 
-## Funcionamento do Jogo
+### Funcionamento do Jogo
 
 <table>
 <thead>
