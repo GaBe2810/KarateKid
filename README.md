@@ -1,4 +1,4 @@
-### KarateKid
+# KarateKid
 
 
 ### Resumo do Filme
@@ -44,42 +44,19 @@ Ganha o jogo se o jogador consegue clicar em todos os objetos necessários antes
 
 ### Codigos
 
-## Menu Inicial
+## Menus
 
 <table>
 <thead>
 <th>
 
-   Codigo Menu Incial
+ ![menus](https://github.com/user-attachments/assets/1bfa0fcf-b7f7-472f-ab1c-b9961990d6f0)
+
 
 </th>
 </thead>
 </table>
 
-
-## Menu Vencedor
-
-<table>
-<thead>
-<th>
-
-   Codigo Menu Vencedor
-
-</th>
-</thead>
-</table>
-
-## Menu Menu Game Over
-
-<table>
-<thead>
-<th>
-
-   Codigo Menu Game Over
-
-</th>
-</thead>
-</table>
 
 ## Movimentação
 
@@ -87,20 +64,41 @@ Ganha o jogo se o jogador consegue clicar em todos os objetos necessários antes
 <thead>
 <th>
 
-   Codigo Movimentação
+ ![movimentacao](https://github.com/user-attachments/assets/72923e00-75ba-4b02-af89-f0d92de6cb7c)
+
 
 </th>
 </thead>
 </table>
 
-## Fase 1
+## Botão de Começar nas Fases
 
 <table>
 <thead>
 <th>
 
-   Codigo Click e Sujeira
+ ![btncomecar](https://github.com/user-attachments/assets/71344b06-a6f6-4bf7-9537-4df0df752adc)
+
 
 </th>
 </thead>
 </table>
+
+## Funcionamento do Jogo
+
+<table>
+<thead>
+<th>
+
+ ![funcionamento](https://github.com/user-attachments/assets/906fe483-fd0b-4a9a-917d-a2236917bbb9)
+
+
+</th>
+</thead>
+</table>
+
+# Vídeo
+https://youtu.be/trpjjRz2R1k?si=qTEhmNcwepUdgbdJ
+
+# Link do Drive
+https://drive.google.com/drive/folders/1YsFeyMqPUirJJeAWTJGABTBpQtz0ntac?usp=drive_link
