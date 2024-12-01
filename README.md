@@ -3,47 +3,47 @@ Nomes: Gabriel Barbosa Soares e Enzo Luciano da Silva
 
 # Resumo do Filme
 
-Introdução
-A história se passa em setembro de 1984, quando Daniel LaRusso, de 17 anos, se muda com sua mãe viúva, Lucille, de Newark, Nova Jersey, para a Califórnia. O objetivo desta mudança é iniciar um novo capítulo na vida de Daniel antes do seu último ano na escola. Embora não o faça, ele promete fazer o possível para se adaptar à nova vida.
+No filme conhecemos Daniel Larusso, que está se mudando de Nova Jersey para a Califórnia por conta de sua mãe Lucille, que conseguiu um emprego por lá, porém, Dani não está feliz com a mudança. Chegando no apartamento, ele encontra Sr. Miyagi, o "conserta tudo" do lugar. Daniel acaba sendo convidado para uma festa e lá ele conhece Ali Mills e logo desenvolve um sentimento pela garota, conversando com ela, esse sentimento se fortalece, mas com isso chega Johnny Laurence, que logo sente ciúmes e raiva do protagonista e os dois começam uma briga que acaba melhor para Laurence. Com isso, é imposta uma rivalidade, sempre que Larusso está com Ali, ele e Johnny acabam brigando, porém, após confusão em uma festa fantasia, na qual Johnny está querendo matar Daniel, Miyagi, aparece para salvar o rapaz, com isso, se oferece para ser seu mentor e aposta um campeonato para o rapaz, nisso começam as lições para ajudar a defender, atacar, equilibrar, mas de formas diferentes com ele, lixando e pintando a casa, por exemplo, isso tudo além de seu relacionamento com Ali, para enfrentar Johnny no campeonato. Mesmo passando por dificuldades durante, o protagonista ainda busca forças para a luta contra Laurence, e acaba vencendo-a, com direito a elogios de seu rival.
 
-Pontos Chave
-- Mudança e Adaptação: Daniel se arrepende de ter deixado seus amigos e recomeça. Depois de uma carreira emocionante, ela se tornou amiga de Freddie Fernandez.
-
-- Primeiros encontros e confrontos com Ali: Daniel conheceu Ali Mills, uma bela maestrina, em uma festa na praia. A trama é interrompida pelo ex-namorado e valentão de Ali, Johnny Lawrence, que mata Ali, deixando Daniel muito envergonhado. Ele tentou esconder seus ferimentos de sua mãe e deu desculpas para explicar por que estava ferido.
-
-- Karate Quest: Depois de uma passagem embaraçosa no time de futebol, Daniel decide procurar aulas de caratê. Ele descobre o dojo Cobra Kai dirigido por John Kreese, que ensina sabedoria e ainda não tem muito conhecimento.
-
-- Amizade e Conselheiro com o Sr. Miyagi: Quando Daniel está deprimido e frustrado com a vida em Los Angeles, ele conhece o zelador da casa, Sr. Miyagi. No final o Sr. Miyagi se torna seu mentor e começa a treiná-lo, mas a princípio Daniel não sabe que jardinagem e polimento de carros são trabalhos de verdade.
-
-- Treinamento e Crescimento Pessoal: Através de diversos treinamentos e exercícios, Daniel aprende disciplina, respeito e ética. Senhor. Miyagi em algumas de suas histórias tristes, revela que perdeu familiares durante a guerra.
-
-- Relacionamento com Ali: Daniel e Ali desenvolvem um relacionamento amoroso, mas surgem desafios, incluindo interferência de Johnny e seus amigos. Apesar do estresse, eles passam momentos divertidos, como o Halloween e os primeiros encontros.
-
-- Competição de Karatê: Com o incentivo do Sr. Miyagi, Daniel decidiu competir no All-Valley Karate Tournament. Ele impressionou, passando pelos rounds e lidando com contratempos inesperados, incluindo uma lesão no joelho causada pelo Caso Cobra.
-
-- Luta Final: Querendo não deixar seu atacante vencer, Daniel pede ao Sr. Miyagi para ajudá-lo a economizar tempo para competir novamente. No ringue, após uma luta brutal, derrotou Johnny com um verdadeiro "chute de guindaste" e conquistou o campeonato.
-
-Conclusão
-A Jornada de Daniel LaRusso é uma história de conquista, amizade e busca por justiça. Com a ajuda do Sr. Miyagi, com suas habilidades recém-desenvolvidas, não apenas afasta os agressores, mas também aprende a enfrentar os desafios da vida com coragem e respeito. Vencer a competição marca sua transformação de um jovem seguro em um jovem que ousa enfrentar o novo mundo..
+No filme, é perceptível a jornada do herói de Daniel, tendo seu começo complicado, encontrando seu mentor, passando por um baque e superando tudo para conquistar sua vitória. Além disso, é perceptível a presença da influência das cores no filme, junto da estética dos anos 80, vemos as cores fortes (padrão dos filmes da época), e seus significados. Por exemplo, os momentos de Daniel e Ali são mais coloridos e com cores fortes, isso para mostrar mais diversão e alegria, ou nas cenas com Miyagi, na qual as cores são muito mais claras para passar tranquilidade e paz. Já as cenas com o Johnny existe a presença de cores fortes e escuras, isso para simbolizar a sensação de tensão, medo e raiva.
 
 ## Personagens
 
-Personagens participantes da cena são apenas Daniel e Sr. Miyagi
+- Daniel Larusso: No começo do filme ele começa bravo, arrogante e perdido na nova cidade, porém ele vai se entendendo com a ajuda do Miyagi, com isso, ele vai aos poucos mudando de personalidade, mas ainda mantendo sua essência do começo. Muitas vezes ele se perde no ego e parte para a arrogância, como nas brigas com Johnny, na briga com Miyagi pela "falta de treinamentos", desentendimentos com sua mãe e com Ali.
+Daniel no começo do filme usa cores mais fortes para representar um pouco de sua personalidade, divertida e estressante, mas com o tempo, ele vai aderindo à cores mais claras para demonstrar sua tranquilidade e paz, até mesmo no torneio, ele aparece com um kimono branco para demostrar isso.
+
+- Johnny Laurence: O rival principal de Daniel. Johnny aparece assim devido ao protagonista, que aparece se aproximando e agradando Ali, eex-namorada de Laurence. Logo, ele fica com ciúmes e extrema raiva de Larusso e sempre que possível, parte para cima dele. No filme, é perceptível esse ódio, mas ao longo do filme, Johnny começa a aparentar um certo apreço por Daniel, mesmo no final, quando seu treinador manda ele bater em seu rival, ele parece assustado por fazer isso, e mesmo com a derrota, ele se demonstra feliz pela evolução de Larusso.
+Johnny sempre aparece com paletas de cores muito escuras e frias (ou com a iluminação escura), isso para passar seu ar de seriedade, ódio e falta de amor com os outros, até mesno no começo ele aparecia mais nas noites. Na cenas em que Miyagi salva o Daniel, Johnny está praticamente todo de preto e a noite, tudo isso para mostrar seu ódio e a vontade de matar Daniel.
+
+- Ali Mills: Ali aparece pela primeira vez na praia com suas amigas, e lá já é perceptível "um amor à primeira vista" entre ela e Daniel, o que acaba se tornando um dos pontos principais do filme, mas não pelo romance, na verdade é pela importância de Ali na mentalidade de Daniel, sendo o ponto de equilíbrio e paz muitas vezes, além das cenas com ela serem mais felizes. 
+Ali aparece no filme com cores mas pastéis, claras e neutras, refletindo sua personalidade, que é calma e gentil, além de mostrar sua aparência angelical, na visão de Daniel. As cenas em que ela aparece, normalmente tendem a ser mais coloridas, pois demonstra parte mais feliz de Daniel e as cores neutras ou fortes demonstram a calma e amor entre os dois
+
+Sr. Miyagi: Aparecendo como um mentor/sensei perfeito, Miyagi no começo aparece como alguém normal no filme, porém após salvar Daniel, se mostra ser alguém bem diferente. Se tornando o personagem mais emblemático e importante do filme. Como mentor, ele passa alguns treinamentos diferentes do convencional para Daniel, como limpar os carros, pintar cercas e casa, mas no fim de tudo era amostragem dos movimentos do Karatê, além de depois ensinar equilíbrio com ondas e pesca, faz isso para mostrar que Karatê não é apenas uma luta, e dá ensinamentos de vida para o jovem lutador. 
+Miyagi normalmente aparece usando roupas brancas ou bem esbranquiçadas, para passar a sensação de paz e tranquilidade, mas também com seriedade. Com o tempo, as cenas dele e Daniel vão ficando mais pintadas e ao mesmo tempo com tons mais claros e escuros, para mostrar que a conexão entre eles está ficando mais próxima, como de pai e filho. Por exemplo, Miyagi no torneio aparece com um paletó preto, mostrando seriedade, e uma camisa branca por baixo, mostrando tranquilidade, que somando, demonstram a confiança dele em seu aprendiz.
+
 
 ## Cena
 
-As cenas selecionadas foram as 3 lições de defesa que o Sr. Miyagi passou para Daniel; Lavar todos os carros em movimentos circulares com as mãos, lixar o assoalho com movimentos circulares e pintar o muro e paredes com movimentos de cima pra baixo e da esquerda pra direita.
+As cenas selecionadas foram as 3 lições ue o Sr. Miyagi passou para Daniel; Lavar todos os carros em movimentos circulares com as mãos, lixar o assoalho com movimentos circulares e pintar o muro e paredes com movimentos de cima pra baixo e da esquerda pra direita. Elas servem para ajudarna defesa dos golpes no karate, sendo eles movimentos que podiam ser replicados comessas tarefas.
 
 
 # Projeto
 
 ## Descrição e Proposta
 
-Na cena do filme, Miyagi pede para Daniel lavar o carro, o assoalho e pintar os muros, tudo isso com finalidade de ajudar nas táticas de defesa do karatê. Então para o jogo decidimos adaptá-las para 
+Na cena do filme, Miyagi pede para Daniel lavar o carro, o assoalho e pintar os muros, tudo isso com finalidade de ajudar nas táticas de defesa do karatê. Então para o jogo decidimos adaptá-las para jogos clickers, onde o jogador precisa clicar nas sujeiras para limpar as coisas e passar de fase
 
+## Personagens Envolvidos 
 
-No projeto, adaptamos as 3 cenas para um jogo onde objetos clicáveis aparecerão na tela de forma aleatória e o jogador precisa clicar para pontuar e passar de fase, os objetos, que são diferentes em cada fase, são respectivamente, crostinhas de sujeira, farpas e gotas de tinta.
-Ganha o jogo se o jogador consegue clicar em todos os objetos necessários antes do tempo da fase acabar.
+Os personagens envolvidos na cena são Daniel Larusso e Sr. Miyagi, onde o Daniel seria o jogador e o Miyagi seria quem passou os treinamentos. O 2 aparecem na cena inicial do jogo, porém podemos dizer que Daniel também "aparece" nas fases, pois seria ele quem está limpando.
+
+## Jogabilidade
+
+Para poder ganhar o jogo, o jogador terá que passar de 3 fases, onde terá que limpar um carro, cercas e a casa, tudo apenas clicando nas sujeiras aleatórias que apareceram pela tela, caso não consiga limpar todas as 20 sujeiras no tempo de 30 segundos, o jogador perderá e terá que recomeçar a fase
+
+## Esboços
+
+# Explicação do Jogo
 
 # Codigos
 
