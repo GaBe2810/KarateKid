@@ -37,6 +37,11 @@ As cenas selecionadas foram as 3 lições de defesa que o Sr. Miyagi passou para
 
 # Projeto
 
+## Descrição e Proposta
+
+Na cena do filme, Miyagi pede para Daniel lavar o carro, o assoalho e pintar os muros, tudo isso com finalidade de ajudar nas táticas de defesa do karatê. Então para o jogo decidimos adaptá-las para 
+
+
 No projeto, adaptamos as 3 cenas para um jogo onde objetos clicáveis aparecerão na tela de forma aleatória e o jogador precisa clicar para pontuar e passar de fase, os objetos, que são diferentes em cada fase, são respectivamente, crostinhas de sujeira, farpas e gotas de tinta.
 Ganha o jogo se o jogador consegue clicar em todos os objetos necessários antes do tempo da fase acabar.
 
