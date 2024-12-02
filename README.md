@@ -311,7 +311,7 @@ Para o inicio, foi pensado em iniciar na casa do Sr. Miyagi, já que no filme Da
 # Organização da dupla
 
 - Enzo: Fez o Diagrama e parte da documentação, mas deixou a parte dos códigos e do unity e algumas vezes se pareceu meio desconexo e não tentava entender os códigos ou ajudar neles, como as vezes se distraia com outras coisas nas aulas e algumas coisas fazia de jeito meio "fez por fazer", porém, com isso se propôs a ajudar na documentação e fazer o diagrama.
-- Gabriel Barbosa: Fez o o jogo (código e coisas no unity) e grande parte da documentação, fez grande parte do trabalho, mas algumas vezes parecia não "calcular" bem as datas de prazo e não conseguir fazer algumas coisas nas aulas ou em casa.
+- Gabriel Barbosa: Fez o o jogo (código e coisas no unity) e grande parte da documentação, fez grande parte do trabalho, mas algumas vezes parecia não "calcular" bem as datas de prazo.
 
 # Vídeo
 https://youtu.be/trpjjRz2R1k?si=qTEhmNcwepUdgbdJ
