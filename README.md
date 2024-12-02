@@ -68,9 +68,179 @@ Ao completar tudo, o jogador poderá recomeçar seus treinamentos, isso para mel
 
 # Descrição técnica do desenvolvimento
 
-## Codigos
+Para o inicio, foi pensado em iniciar na casa do Sr. Miyagi, já que no filme Daniel faz seus treinamentos na casa do mestre, e para simular a casa foi utilizado uma casa que lembrasse o dojo, algumas árvores que há em volta da casa e alguns carros, já que no filme a casa de Miyagi tem caros estacionados. Nas fases foi utlizado algumas imagens da internet para poder simular os treinamentos e os momentos do dia, como m carro, casa e cercas, e para simular os horários foi pego imagens de dia, tarde e noite.
 
-### Menus
+### Plano para simular o chão:
+
+<table>
+<thead>
+<th>
+
+![Captura de tela 2024-12-01 161146](https://github.com/user-attachments/assets/38cc8a2e-be82-420e-9a9f-8b2ccf11186d)
+
+
+</th>
+</thead>
+</table>
+
+### Árvores
+
+<table>
+<thead>
+<th>
+
+![Captura de tela 2024-12-01 161048](https://github.com/user-attachments/assets/0a4dab0a-bd2c-4330-bb40-4c1d58d4a30d)
+
+
+</th>
+</thead>
+</table>
+
+### Carros
+
+<table>
+<thead>
+<th>
+
+![Captura de tela 2024-12-01 161305](https://github.com/user-attachments/assets/62051a34-d67e-490d-9cf6-b8a628dce3c9)
+
+
+</th>
+</thead>
+</table>
+
+### Casa
+
+<table>
+<thead>
+<th>
+
+![Captura de tela 2024-12-01 161933](https://github.com/user-attachments/assets/a01c0b3d-efdf-4db9-a02e-bb2ee7eba7eb)
+
+
+</th>
+</thead>
+</table>
+
+### Daniel e Miyagi
+
+<table>
+<thead>
+<th>
+
+![Captura de tela 2024-12-01 161839](https://github.com/user-attachments/assets/974432d7-b648-4c64-9e1e-62d158a5b243)
+
+</th>
+</thead>
+</table>
+
+
+
+
+### Fase 1
+
+<table>
+<thead>
+<th>
+
+![fase1](https://github.com/user-attachments/assets/f789f46b-2fbc-4b4c-ba68-46f3c82cdac8)
+
+
+</th>
+</thead>
+</table>
+
+### Fase 2
+
+<table>
+<thead>
+<th>
+
+![fase2](https://github.com/user-attachments/assets/750749c2-47f2-46ea-9e9b-ff86f929ce65)
+
+
+</th>
+</thead>
+</table>
+
+### Fase 3
+
+<table>
+<thead>
+<th>
+
+![fase3](https://github.com/user-attachments/assets/e57da087-02c3-48ca-869b-aa82fb3cf440)
+
+
+</th>
+</thead>
+</table>
+
+### Tela inicial e final, Menu de treinos, Menu de Game Over, Menu de vitória
+
+<table>
+<thead>
+<th>
+
+![menu inicial](https://github.com/user-attachments/assets/2413f7bd-ffd2-4726-abee-c1b531110ebb)
+
+
+
+</th>
+</thead>
+</table>
+
+<table>
+<thead>
+<th>
+
+![final](https://github.com/user-attachments/assets/51afef82-161b-401f-88dd-1d6741bd9da7)
+
+
+
+</th>
+</thead>
+</table>
+
+<table>
+<thead>
+<th>
+
+![menutreino](https://github.com/user-attachments/assets/b86b9001-5712-4681-a51f-cf9e026710c3)
+
+
+
+</th>
+</thead>
+</table>
+
+<table>
+<thead>
+<th>
+
+![game over](https://github.com/user-attachments/assets/c87a5d9e-222b-4bf4-bb1a-9ef2ea9d1efd)
+
+
+
+</th>
+</thead>
+</table>
+
+<table>
+<thead>
+<th>
+
+![vitoria](https://github.com/user-attachments/assets/e2d5a7fe-7d9e-4353-aa30-476ce1ae5148)
+
+
+
+</th>
+</thead>
+</table>
+
+# Codigos
+
+## Menus
 
 <table>
 <thead>
@@ -83,8 +253,11 @@ Ao completar tudo, o jogador poderá recomeçar seus treinamentos, isso para mel
 </thead>
 </table>
 
+- Quando apertar o botão, o jogador irá para a póxima cena, ou no caso do Game Over, o jogador irá reiniciar a fase.
+- Esse código foi utilizado para todos os menus, já que eles apresentam apenas um botão.
 
-### Movimentação
+
+## Movimentação
 
 <table>
 <thead>
@@ -97,31 +270,43 @@ Ao completar tudo, o jogador poderá recomeçar seus treinamentos, isso para mel
 </thead>
 </table>
 
-### Botão de Começar nas Fases
+- O jogador apenas irá se mover caso o timeScale seja igual a 1.
+- Ao colidir com o GameObject de tag "Miyagi" irá abrir o menu para começar o treinamento e o timeScale irá ser 0, isso para o tempo pausar.
+- O código foi utilizado na 1° cena já que é onde o jogador está entrando na casa de Miyagi.
+
+## Funcionamento do Jogo
 
 <table>
 <thead>
 <th>
 
- ![btncomecar](https://github.com/user-attachments/assets/71344b06-a6f6-4bf7-9537-4df0df752adc)
+![Captura de tela 2024-12-01 192155](https://github.com/user-attachments/assets/1e55417b-ce30-40e5-b2f0-c61fb0ba2761)
 
 
 </th>
 </thead>
 </table>
 
-### Funcionamento do Jogo
+- Na função SujLimpas, caso o número de sujeiras seja menor que o limite, a cada sujeira limpa irá contabilizar na contagem e a próxima sujeira irá aparecer em um lugar aleatório na tela. E caso ele iguale (ou passe) o menu de vitória aparecerá e a tela do jogo sumirá
+- Na função Tempo, tempoAtual irá diminuir 1 segundo sempre, e caso o tempo chegue a zero (ou passe) o tempo se igualará a 0 e o menu de Game Over irá aparecer e a tela do jogo sumirá. 
+
+## Jogo
 
 <table>
 <thead>
 <th>
 
- ![funcionamento](https://github.com/user-attachments/assets/906fe483-fd0b-4a9a-917d-a2236917bbb9)
-
+![Captura de tela 2024-12-01 192326](https://github.com/user-attachments/assets/6cff34a8-6d1b-4edb-8c37-4e7ca386d431)
 
 </th>
 </thead>
 </table>
+
+- A classe Sujeira herdará de Click, isso para ajudar no funcionamento do jogo.
+- Ao entrar na fase, o timeScale estará em 0 e chamará o método SujLimpas.
+- O método tempo irá se atualizar sempre para ser o cronometro.
+- Clicando no botão de começar, o título e o botão iram sumir da tela, já o cronometro, a sujeira e o contador iram aparecer na cena, além disso o timeSScale irá ser 1.
+- Esse código foi utilizado em todas as fases de treinamentos, pois elas seguem a mesma idéia.
 
 # Vídeo
 https://youtu.be/trpjjRz2R1k?si=qTEhmNcwepUdgbdJ
