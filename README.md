@@ -308,6 +308,11 @@ Para o inicio, foi pensado em iniciar na casa do Sr. Miyagi, já que no filme Da
 - Clicando no botão de começar, o título e o botão iram sumir da tela, já o cronometro, a sujeira e o contador iram aparecer na cena, além disso o timeSScale irá ser 1.
 - Esse código foi utilizado em todas as fases de treinamentos, pois elas seguem a mesma idéia.
 
+# Organização da dupla
+
+- Enzo: Fez o Diagrama e parte da documentação, mas deixou a parte dos códigos e do unity e algumas vezes se pareceu meio desconexo e não tentava entender os códigos ou ajudar neles, como as vezes se distraia com outras coisas nas aulas e algumas coisas fazia de jeito meio "fez por fazer", porém, com isso se propôs a ajudar na documentação e fazer o diagrama.
+- Gabriel Barbosa: Fez o o jogo (código e coisas no unity) e grande parte da documentação, fez grande parte do trabalho, mas algumas vezes parecia não "calcular" bem as datas de prazo e não conseguir fazer algumas coisas nas aulas ou em casa.
+
 # Vídeo
 https://youtu.be/trpjjRz2R1k?si=qTEhmNcwepUdgbdJ
 
